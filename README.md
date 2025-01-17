@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/0Doy1t_w)
 # Hello, GitHub!
 
 ## 🔍 Overview
@@ -24,23 +25,23 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- I learned about git stage and push commits. I learned about the importance of proper commit messages.
 
 **I struggled with:** (repeat as needed)
-- .
+- I struggled with connecting my GitHub information to Visual Studio Code. I also struggled with pushing my changes due to the bad information connection. 
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- I needed the instructor to help me with fixing my changes so that they could be pushed.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [20] out of 20.
 
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- I used no links, books, and other resources in my work. 
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- I received help from my instructor Professor Adib Zaman
 
 ---
 ## Copyrights and License
